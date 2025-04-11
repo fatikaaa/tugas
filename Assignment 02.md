@@ -1,5 +1,5 @@
-Nama : Indriani Anwar
-NIM : 10241036
+Nama : Fatika Rizki Syahada
+NIM : 10241030
 
 1. What kind of situation do we need to use for loops or while loops? Explain with a concrete example.
 Jawab : Kita menggunakan **for loop** atau **while loop** dalam JavaScript saat kita ingin mengeksekusi suatu blok kode **berulang kali** berdasarkan kondisi tertentu. Misalnya, jika kita ingin mencetak semua angka genap dari 1 sampai 10, kita bisa menggunakan `for loop` karena kita tahu secara pasti berapa kali perulangan akan dilakukan. Contohnya:
